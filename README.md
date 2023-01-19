@@ -15,5 +15,6 @@ python app.py (to run local the application)
 ```
 
 ## Screenshot
-![img.png](img.png)
+![image](https://user-images.githubusercontent.com/113314502/213558121-3bd66095-cf1d-4ba8-bbe4-31117d9c44fb.png)
+
 
